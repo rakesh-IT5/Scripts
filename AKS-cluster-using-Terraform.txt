@@ -274,4 +274,4 @@ kubectl delete deployment.apps/swiggy-app
 
 terraform plan -destroy -out main.destroy.tfplan 
 
-terraform apply "main.destroy.tfplan"
+terraform apply "main.destroy.tfplan"....
